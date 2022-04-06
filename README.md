@@ -1,4 +1,4 @@
-# Comandos-Basicos-Git
+# Comandos basicos para trabalhar com o Git
 
 #### CLONAR REPOSITORIO
 ```
